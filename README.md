@@ -15,7 +15,7 @@ Software Engineer & Laravel Developer | Team Lead | Passionate about clean code 
 
 ## 🚀 About Me
 
-- Leading the hotel section at GRS, managing hotels, tours, and flights  
+- Leading the GRS, managing hotels, tours, and flights  
 - Contributing to open-source projects and PHP ecosystem  
 - Focused on writing maintainable, testable, and efficient code  
 - Passionate about mentoring and sharing knowledge  
