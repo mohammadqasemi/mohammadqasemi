@@ -1,16 +1,32 @@
-## Hi there 👋
+# Mohammad Qasemi
 
-<!--
-**mohammadqasemi/mohammadqasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Mohammad!  
+Software Engineer & Laravel Developer | Team Lead | Passionate about clean code & scalable systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- **Backend:** PHP (Laravel), RESTful APIs, Redis, MySQL  
+- **Frontend:** Blade, Vue.js (basic)  
+- **Tools & Practices:** Git, PHPUnit, Docker, CI/CD, Clean Architecture, Scalable Systems  
+
+---
+
+## 🚀 About Me
+
+- Leading the hotel section at GRS, managing hotels, tours, and flights  
+- Contributing to open-source projects and PHP ecosystem  
+- Focused on writing maintainable, testable, and efficient code  
+- Passionate about mentoring and sharing knowledge  
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mohammad-qasemi)
+- [GitHub](https://github.com/mohammadqasemi)  
+
+---
+
+*"Code is like humor. When you have to explain it, it’s bad."*
